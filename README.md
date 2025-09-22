@@ -1,2 +1,2 @@
 # Projects
-personel portfolio
+Personel portfolio using Html,CSS,JavaScript.
